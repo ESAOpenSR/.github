@@ -1,4 +1,7 @@
-<img src="https://github.com/ESAOpenSR/opensr-model/blob/main/resources/opensr_logo.png?raw=true" width="300"/>  
+<p align="center">
+  <img src="https://github.com/ESAOpenSR/opensr-model/blob/main/resources/opensr_logo.png?raw=true" width="300"/>
+</p>
+
 [OpenSR.eu](https://opensr.eu/)    
 
 Trustworth, Open Source Super-Resolution for Sentinel-2. Here you will find:    
