@@ -7,10 +7,10 @@
   
 OpenSR is an ESA-funded project aimed at producing trustworthy, open source Super-Resolution for Sentinel-2. Project members include the University of València, University of Oxford and Brockmann Consult.  
   
-Here you will find:    
+The Repositories hold the following:    
 - SR Models + Weights
-- Datasets
-- Synthetic Degradations
+- Validation Workflows
+- Datasets and Synthetic Degradations
 - SR and tiled inference utilities
 
 
