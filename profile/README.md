@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/ESAOpenSR/opensr-model/blob/main/resources/opensr_logo.png?raw=true](https://github.com/ESAOpenSR/opensr-model/blob/main/resources/images/opensr_logo.png?raw=true)" width="300"/>
+  <img src="https://raw.githubusercontent.com/ESAOpenSR/opensr-model/refs/heads/main/resources/images/opensr_logo.png" width="300"/>
 </p>
 
 
